@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "name": "Patoju Karthikeya",
+    "title": "Data Science Engineer ",
+    "location": "India",
+    "summary": "Enthusiastic software developer with experience in machine learning, data science, and web development, seeking to build innovative solutions.",
+    "profileImage": "https://image2url.com/images/1764932450219-2c540d64-6ee9-4ba7-887a-dcf536eb7390.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:patojukarthikeya@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "SQL",
+          "Python",
+          "Machine Learning",
+          "Data Science",
+          "Software Development",
+          "GenAI"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Infosys SpringBoard, Infosys",
+          "position": "Intern",
+          "period": "09/2025 - Ongoing",
+          "description": "Applied AI and machine learning to solve real-world problems and create innovative products with data-driven insights."
+        },
+        {
+          "company": "Google",
+          "position": "Google Student Campus Ambassador",
+          "period": "07/2025 - Ongoing",
+          "description": "Connecting with Google experts and empowering college students as liaisons between Google and their campus communities."
+        },
+        {
+          "company": "Codegnan",
+          "position": "Junior Software developer",
+          "period": "08/2024 - 08/2025",
+          "description": "Designed, programmed, built, tested, deployed, and maintained software using specialized programming knowledge."
+        },
+        {
+          "company": "Cognifyz Technologies",
+          "position": "PowerBI Virtual Intern",
+          "period": "07/2024 - 12/2024",
+          "description": "Designed interactive dashboards in PowerBI. Applied DAX, Power Query, and data modeling."
+        },
+        {
+          "company": "Prodigy Infotech",
+          "position": "Machine Learning Intern",
+          "period": "06/2024 - 08/2024",
+          "description": "Built ML models: regression, clustering, SVM for classification. Developed gesture recognition and food recognition system."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "TransferIQ Value Prediction",
+          "description": "Estimating a player's transfer value is a complex by using advanced machine learning and time-series",
+          "tags": [
+            "ML",
+            "Python",
+            "Data Science"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Patojukarthikeya73/Transfer-ValueIQ-Predictions"
+        },
+        {
+          "title": "Stock Price Prediction System",
+          "description": "Applied ARIMA and neural networks on stock data. Integrated sentiment analysis from financial news.",
+          "tags": [
+            "Python",
+            "PostgreSQL",
+            "Web Dev"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Patojukarthikeya73/stock-predictions"
+        },
+        {
+          "title": "CodeGenAI and Code Explainer",
+          "description": "Code explaination and developing states of code and comprehensive pipeline designed",
+          "tags": [
+            "DL",
+            "ML",
+            "DS"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Patojukarthikeya73/Infosys_Springboard/blob/main/Codegenie.ipynb.ipynb"
+        },
+        {
+          "title": "Smart Home device usage Prediction",
+          "description": "Smart hoe devices integrated with ML can analyze real-time soil data to optimize tilling",
+          "tags": [
+            "Machine Learning",
+            "Python",
+            "AI"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Patojukarthikeya73/Prodigy-Infotech-Internship"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "NRI Institute of Technology",
+          "degree": "B.Tech in Computer Science",
+          "period": "2022 - Present"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Qualcomm - 5G Introductory Technology",
+          "description": "https://drive.google.com/file/d/1RJ0EtyFDdSe-hxh43A9rASh9CF_iJfL9/view"
+        },
+        {
+          "title": "Salesforce - Al Associate, Agentforce Specialist",
+          "description": "http://sforce.co/verifycerts"
+        },
+        {
+          "title": "Oracle - Cloud Foundations Associate",
+          "description": "https://drive.google.com/file/d/1eQSa8V295D8zZ0dfJvVKXfxjq6Mc3CEf/view?usp=drive_link"
+        },
+        {
+          "title": "ACE Multicloud - Network Associate",
+          "description": "https://www.credly.com/badges/6323d4de-9339-452f-af39-34e606361447/linked_in_profile"
+        },
+        {
+          "title": "Automation Anywhere – Certified Essentials Professional",
+          "description": "https://certificates.automationanywhere.com/c6e72b90-ad33-4709-958b-f98da4a01d31"
+        },
+        {
+          "title": "Google Play - Store listing requirements",
+          "description": "https://www.credential.net/9397bc36-beb4-47c4-87d6-0072179ac650"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "patojukarthikeya@gmail.com",
+      "phone": "+91 7569754566",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/karthikeya-patoju-70315926a/",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/Patojukarthikeya73",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Patoju Karthikeya. All rights reserved."
+  }
+}
